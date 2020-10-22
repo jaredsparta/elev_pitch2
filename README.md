@@ -1,3 +1,5 @@
+## 1st Iteration
+
 Hi I'm Jared,
 
 I recently graduated this year with a bachelor's in Maths. During my time at university I grew more and more passionate about
@@ -20,7 +22,7 @@ FEEDBACK:
 - Include power words
 ---
 
-* Power words:
+*Power words:
     - deep interest
     - passionate
     - overwhelming
