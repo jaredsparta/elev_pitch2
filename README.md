@@ -14,15 +14,14 @@ took pride in my ability to help and teach others -- most recently I tutored a f
 his upcoming exams, which he passed first time. So, all in all, it's really the experiences that I found most
 rewarding that led me to transition to a career in DevOps.
 
----
-FEEDBACK:
-- More passionate in the delivery
-- Stutter less
-- Give yourself a few pauses
-- Include power words
+* FEEDBACK:
+    - More passionate in the delivery
+    - Stutter less
+    - Give yourself a few pauses
+    - Include power words
 ---
 
-*Power words:
+* Power words to use:
     - deep interest
     - passionate
     - overwhelming
