@@ -20,7 +20,7 @@ FEEDBACK:
 - Include power words
 ---
 
-Power words:
+* Power words:
     - deep interest
     - passionate
     - overwhelming
