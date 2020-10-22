@@ -17,10 +17,26 @@ FEEDBACK:
 - More passionate in the delivery
 - Stutter less
 - Give yourself a few pauses
-
+- Include power words
 ---
+
+Power words:
+    - deep interest
+    - passionate
+    - overwhelming
+    - accomplish
+    - desirable
+    - innovative
+    - enticing
+    - aid
+    - accomplished
+    - detail-oriented
+    - fulfilling
 
 ## 2nd Iteration
 
 Hi I'm Jared,
 
+I graduated earlier this year with a Bachelor's in Maths from Warwick. In my final year I took a module on data science which sparked a deep interest in the tech industry. The overwhelming reason I was attracted to DevOps consulting was the fact that I could not only develop technical skills but the softer skills too. As someone who strives to accomplish a lot, I felt this was highly desirable to me. The opportunity to work in such an innovative role in a highly-evolving industry is something I find extremely enticing.
+
+Specifically about my choice to move into a consulting role, I have always been passionate about using my knowledge to aid others -- most recently I accomplished quite a lot with one of my tutees. He was a first year engineering student who was struggling with his upcoming exams and through my detail-oriented approach to teaching he was able to pass them first time. So to sum up, I would say it was really my fulfilling experiences that led me to this point.
